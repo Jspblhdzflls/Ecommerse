@@ -7,8 +7,6 @@ D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Ecommerse.runtimeconfig.dev.js
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Ecommerse.dll
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\ref\Ecommerse.dll
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Ecommerse.pdb
-D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
@@ -59,4 +57,4 @@ D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\runtimes\win-x86\native\Micros
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Ecommerse\Ecommerse\Ecommerse\obj\Debug\net5.0\Ecommerse.csprojAssemblyReference.cache
+D:\Ecommerse\Ecommerse\Ecommerse\bin\Debug\net5.0\Newtonsoft.Json.dll
